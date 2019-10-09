@@ -28,6 +28,7 @@ public class MovieController {
 		return movieService.getNewMovie();
 	}
 	public void test1(){}
+	public void test2(){}
 	
 }
 
