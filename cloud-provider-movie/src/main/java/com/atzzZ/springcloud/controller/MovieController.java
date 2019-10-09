@@ -27,7 +27,7 @@ public class MovieController {
 		System.out.println("电影服务："+port+"  被访问了");
 		return movieService.getNewMovie();
 	}
-	
+	public void test1(){}
 	
 }
 
